@@ -1,6 +1,7 @@
 
 projects/capstone/.ipynb_checkpoints/*
 projects/titanic_survival_exploration 2/*
+projects/titanic_survival_exploration/*
 *.ipynb
 *.pyc
 projects/charityml/*
