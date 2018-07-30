@@ -1,0 +1,16 @@
+Project Requirements:
+- Python 3.6
+- Jupyter Notebook (with a Python 3 kernel)
+
+Libraries:
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Sci-kit Learn
+
+Data:
+- The data for this project can be downloaded from here:
+https://www.kaggle.com/c/home-credit-default-risk/data
+
+Place the contents in the data folder, relative to the project root
